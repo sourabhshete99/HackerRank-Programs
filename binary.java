@@ -1,3 +1,5 @@
+// converting a number in binary and find out maximum number of consecutive 1's in that binary number
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
