@@ -1,3 +1,4 @@
+# calculate minimum and maximum sum of elements excluding one element
 #!/bin/python3
 
 import math
