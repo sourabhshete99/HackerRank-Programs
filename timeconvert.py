@@ -1,3 +1,4 @@
+# convert time from AM/PM to 24 hours format
 #!/bin/python3
 
 import os
