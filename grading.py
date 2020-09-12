@@ -1,3 +1,4 @@
+# calculating grades of students from class by given specific pattern for 'just passed' students, etc
 #!/bin/python3
 
 import math
