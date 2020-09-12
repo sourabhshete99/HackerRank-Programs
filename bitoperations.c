@@ -1,3 +1,5 @@
+// calculate two number using bitwise operations between them 
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
