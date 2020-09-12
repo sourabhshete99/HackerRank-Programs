@@ -1,3 +1,4 @@
+# find number of candles with max height
 #!/bin/python3
 
 import math
