@@ -1,4 +1,4 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+# splitting and arraging given string in required manner as stated
 
 i=int(input())
 s=[]
