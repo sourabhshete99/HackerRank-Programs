@@ -1,3 +1,4 @@
+# comparing given triplets(group of 3 elements) in given pattern/criteria and displaying the answers
 #!/bin/python3
 
 import math
