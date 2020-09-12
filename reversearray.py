@@ -1,3 +1,4 @@
+# reverse of a given array
 #!/bin/python3
 
 import math
